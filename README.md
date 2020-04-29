@@ -69,5 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 docker build -f Dockerfile.dev dilipgavara/frontend:latest .
 docker run -it -p 3000:3000 dilipgavara/frontend
-
 docker run -it -p 3000:3000 -v /app/node_modules -v $(pwd):/app dilipgavara/frontend
