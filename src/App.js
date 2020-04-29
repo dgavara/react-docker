@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn ReactJs
+          Learn PIQ
         </a>
       </header>
     </div>
