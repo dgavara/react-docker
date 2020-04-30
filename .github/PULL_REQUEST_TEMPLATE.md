@@ -1,24 +1,24 @@
-# Description
+## Description
 
 Please include a summary of the change and which issue is fixed (if possible include screenshots). Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-## Type of change
+### Type of change
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] This change requires a documentation update
 
-## Related JIRA Ticket(s): 
+### Related JIRA Ticket(s): 
 
-## This PR has been tested in the following browsers
+### This PR has been tested in the following browsers
 
 - [ ] Chrome
 - [ ] Safari
 - [ ] Firefox
 - [ ] IE Edge
 
-# Checklist:
+### Checklist:
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
