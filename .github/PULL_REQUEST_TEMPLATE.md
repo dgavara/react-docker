@@ -1,6 +1,6 @@
 # Description
 
-Please include a summary of the change and which issue is fixed (if possible include screenshots). Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 ## Type of change
 
@@ -10,6 +10,12 @@ Please include a summary of the change and which issue is fixed (if possible inc
 - [ ] This change requires a documentation update
 
 ## Related JIRA Ticket(s): 
+
+## Screenshots
+
+ **Before**
+
+ **After**
 
 ## This PR has been tested in the following browsers
 
